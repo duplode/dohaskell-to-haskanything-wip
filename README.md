@@ -1,7 +1,8 @@
 Auxiliary WIP repository for
 [HaskAnything issue #33](https://github.com/beerendlauwers/HaskAnything/issues/33).
 dhTags and dhTypes are lists of tags and content types originally
-found in resources-dump-wip.yaml.
+found in resources-dump-wip.yaml. The sample-output directory was
+generated using revision 1d9dfda933d39a77b133d7872a5a99f7677207cd .
 
 A few things to decide about the conversion:
 
