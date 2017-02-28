@@ -1,0 +1,1095 @@
+url: http://stackoverflow.com/questions/13352205/what-are-free-monads
+title: What are free monads?
+type: Q&A website
+tags:
+- free monads
+- monads
+
+url: http://www.seas.upenn.edu/~cis194/lectures.html
+authors:
+- Brent Yorgey
+title: CIS 194
+type: lecture notes
+tags:
+- online course
+
+url: http://www.yesodweb.com/book-1.2
+authors:
+- Michael Snoyman
+title: Haskell and Yesod
+type: textbook
+tags:
+- web
+- web frameworks
+- Yesod
+
+url: http://www.scs.stanford.edu/11au-cs240h/notes/
+title: CS240h
+type: lecture notes
+tags:
+- online course
+
+url: http://acm3.wustl.edu/functional/haskell.php
+title: How to Learn Haskell
+type: meta resource
+tags:
+- introduction
+
+url: http://shuklan.com/haskell/index.html
+title: CS 1501 - Introduction to Haskell
+type: lecture notes
+tags:
+- online course
+
+url: http://www.vex.net/~trebla/haskell/index.xhtml
+authors:
+- Albert Y. C. Lai
+title: Haskell Notes and Examples
+type: meta resource
+tags:
+- miscellaneous
+
+url: http://www.haskellers.com/
+authors:
+- Michael Snoyman
+title: Haskellers.com
+type: community site
+tags:
+- job search
+
+url: http://stackoverflow.com/questions/17668452/can-someone-explain-to-me-why-the-app-function-of-arrowapply-makes-them-as-power
+title: Can someone explain to me why the app function of ArrowApply makes them as
+  powerful as monads?
+type: Q&A website
+tags:
+- arrows
+- monads
+
+url: http://adam.chlipala.net/cpdt/
+authors:
+- Adam Chlipala
+title: Certified Programming with Dependent Types
+type: textbook
+tags:
+- Coq
+- dependent types
+
+url: https://en.wikibooks.org/wiki/Haskell
+title: Haskell Wikibook
+type: textbook
+tags:
+- introduction
+- miscellaneous
+
+url: https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples
+authors:
+- Haskell Wikibook
+title: Lists and tuples
+type: textbook
+tags:
+- lists
+- tuples
+
+url: https://en.wikibooks.org/wiki/Haskell/Recursion
+authors:
+- Haskell Wikibook
+title: Recursion
+type: textbook
+tags:
+- recursion
+
+url: https://en.wikibooks.org/wiki/Haskell/Pattern_matching
+authors:
+- Haskell Wikibook
+title: Pattern matching
+type: textbook
+tags:
+- pattern matching
+
+url: https://en.wikibooks.org/wiki/Haskell/Higher-order_functions_and_Currying
+authors:
+- Haskell Wikibook
+title: Higher-order functions and Currying
+type: textbook
+tags:
+- currying
+
+url: https://en.wikibooks.org/wiki/Haskell/Using_GHCi_effectively
+authors:
+- Haskell Wikibook
+title: Using GHCi effectively
+type: textbook
+tags:
+- GHCi
+
+url: https://en.wikibooks.org/wiki/Haskell/Modules
+authors:
+- Haskell Wikibook
+title: Modules
+type: textbook
+tags:
+- modules
+
+url: https://en.wikibooks.org/wiki/Haskell/Indentation
+authors:
+- Haskell Wikibook
+title: Indentation
+type: textbook
+tags:
+- layout rules
+
+url: https://en.wikibooks.org/wiki/Haskell/Classes_and_types
+authors:
+- Haskell Wikibook
+title: Classes and types
+type: textbook
+tags:
+- type classes
+
+url: https://en.wikibooks.org/wiki/Haskell/The_Functor_class
+authors:
+- Haskell Wikibook
+title: The Functor class
+type: textbook
+tags:
+- functors
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_monads
+authors:
+- Haskell Wikibook
+title: Understanding monads
+type: textbook
+tags:
+- monads
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_monads/Maybe
+authors:
+- Haskell Wikibook
+title: Understanding monads/Maybe
+type: textbook
+tags:
+- Maybe monad
+- monads
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_monads/List
+authors:
+- Haskell Wikibook
+title: Understanding monads/List
+type: textbook
+tags:
+- List monad
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_monads/IO
+authors:
+- Haskell Wikibook
+title: Understanding monads/IO
+type: textbook
+tags:
+- I/O
+- monads
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_monads/State
+authors:
+- Haskell Wikibook
+title: Understanding monads/State
+type: textbook
+tags:
+- monads
+- State monad
+
+url: https://en.wikibooks.org/wiki/Haskell/MonadPlus
+authors:
+- Haskell Wikibook
+title: MonadPlus
+type: textbook
+tags:
+- MonadPlus
+
+url: https://en.wikibooks.org/wiki/Haskell/Monad_transformers
+authors:
+- Haskell Wikibook
+title: Monad transformers
+type: textbook
+tags:
+- monad transformers
+
+url: https://en.wikibooks.org/wiki/Haskell/Monoids
+authors:
+- Haskell Wikibook
+title: Monoids
+type: textbook
+tags:
+- monoids
+
+url: https://en.wikibooks.org/wiki/Haskell/Syntactic_sugar
+authors:
+- Haskell Wikibook
+title: Syntactic sugar
+type: textbook
+tags:
+- syntactic sugar
+
+url: https://en.wikibooks.org/wiki/Haskell/Arrow_tutorial
+authors:
+- Haskell Wikibook
+title: Arrow tutorial
+type: textbook
+tags:
+- arrows
+
+url: http://www.reddit.com/r/haskell/comments/262kbj/spj_talks_at_oregon_programming_languages_summer/chnhevt
+authors:
+- Simon Peyton Jones
+title: SPJ talks at Oregon Programming Languages Summer School 2013
+type: forum post
+tags:
+- GADTs
+- kinds
+- System F
+- type classes
+- type families
+- type inference
+
+url: https://en.wikibooks.org/wiki/Haskell/Performance_Introduction
+authors:
+- Haskell Wikibook
+title: Performance Introduction
+type: textbook
+tags:
+- performance
+
+url: https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
+authors:
+- Haskell Wikibook
+title: Continuation passing style
+type: textbook
+tags:
+- CPS
+
+url: https://en.wikibooks.org/wiki/Haskell/Zippers
+authors:
+- Haskell Wikibook
+title: Zippers
+type: textbook
+tags:
+- zippers
+
+url: https://en.wikibooks.org/wiki/Haskell/Applicative_Functors
+authors:
+- Haskell Wikibook
+title: Applicative Functors (Wikibook)
+type: textbook
+tags:
+- applicative functors
+
+published: 2009
+url: http://www.haskell.org/haskellwiki/Typeclassopedia
+authors:
+- Brent Yorgey
+title: Typeclassopedia
+type: lecture notes
+tags:
+- applicative functors
+- arrows
+- comonads
+- Foldable
+- functors
+- monad transformers
+- MonadFix
+- monads
+- monoids
+- semigroups
+- Traversable
+
+published: 2014
+url: https://speakerdeck.com/dmoverton/comonads-in-haskell
+authors:
+- David Overton
+title: Comonads in Haskell
+type: lecture notes
+tags:
+- comonads
+
+url: http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern
+title: What is the “Free Monad + Interpreter” pattern?
+type: Q&A website
+tags:
+- free monads
+
+url: http://stackoverflow.com/questions/23766419/when-would-i-want-to-use-a-free-monad-interpreter-pattern
+title: When would I want to use a Free Monad + Interpreter pattern?
+type: Q&A website
+tags:
+- free monads
+
+url: http://www.cl.cam.ac.uk/~dao29/ixmonad/ixmonad-fita14.pdf
+title: Fun with indexed monads
+type: lecture notes
+tags:
+- indexed monads
+
+url: http://stackoverflow.com/questions/24090758/is-the-concept-of-an-interleaved-homomorphism-a-real-thing
+title: Is the concept of an “interleaved homomorphism” a real thing?
+type: Q&A website
+tags:
+- category theory
+- homomorphisms
+
+url: http://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182
+authors:
+- Steve Awodey
+title: Category Theory
+type: textbook
+tags:
+- category theory
+
+url: http://okmij.org/ftp/tagless-final/course/
+authors:
+- Oleg Kiselyov
+title: ! 'Typed tagless-final interpretations: Lecture notes'
+type: lecture notes
+tags:
+- DSLs
+- finally tagless
+
+published: 2012
+url: http://okmij.org/ftp/tagless-final/course/lecture.pdf
+authors:
+- Oleg Kiselyov
+title: Typed Tagged Final Interpreters
+type: lecture notes
+tags:
+- ASTs
+- deserializing
+- DSLs
+- expression problem
+- finally tagless
+- GADTs
+
+published: 2010
+url: http://stackoverflow.com/a/3209189
+authors:
+- Edward Kmett
+title: Memoization in Haskell?
+type: Q&A website
+tags:
+- memoization
+
+url: http://www.haskell.org/haskellwiki/Cloud_Haskell
+authors:
+- Haskell Wiki
+title: Cloud Haskell
+type: meta resource
+tags:
+- distributed computing
+
+published: 2008
+url: http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html
+authors:
+- Bryan O'Sullivan
+title: ! 'Interfacing with C: the FFI'
+type: textbook
+tags:
+- FFI
+
+url: http://stackoverflow.com/questions/211216/hidden-features-of-haskell
+title: Hidden features of Haskell
+type: Q&A website
+tags:
+- miscellaneous
+
+published: 2010
+url: http://www.slideshare.net/tibbe/highperformance-haskell
+authors:
+- Johan Tibell
+title: High-Performance Haskell
+type: lecture notes
+tags:
+- performance
+
+published: 2014
+url: http://www.reddit.com/r/haskell/comments/223i80/haskell_application_architecture_best_practices/
+title: Haskell application architecture best practices
+type: forum post
+tags:
+- design patterns
+
+url: http://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
+title: Large-scale design in Haskell?
+type: Q&A website
+tags:
+- design patterns
+
+url: http://stackoverflow.com/questions/5645168/comparing-haskells-snap-and-yesod-web-frameworks
+title: Comparing Haskell's Snap and Yesod web frameworks
+type: Q&A website
+tags:
+- Snap
+- web
+- web frameworks
+- Yesod
+
+published: 2014
+url: https://dl.dropboxusercontent.com/u/52705490/main-en.pdf
+authors:
+- Larry LIU Xinyu
+title: AlgoXY Elementary Algorithms
+type: textbook
+tags:
+- algorithms
+
+url: http://www.reddit.com/r/snapframework/
+title: reddit.com/r/snapframework
+type: community site
+tags:
+- Snap
+- web
+- web frameworks
+
+url: http://www.haskell.org/ghc/docs/latest/html/users_guide/index.html
+title: The Glorious Glasgow Haskell Compilation System User's Guide
+type: documentation
+tags:
+- GHC
+
+url: http://hackage.haskell.org/package/QuickCheck
+title: ! 'hackage: QuickCheck'
+type: documentation
+tags:
+- QuickCheck
+- testing
+
+url: http://community.haskell.org/~ndm/darcs/hlint/hlint.htm
+authors:
+- Neil Mitchell
+title: HLint Manual
+type: documentation
+tags:
+- HLint
+
+published: 2013
+url: http://chimera.labs.oreilly.com/books/1230000000929/index.html
+authors:
+- Simon Marlow
+title: Parallel and Concurrent Programming in Haskell
+type: textbook
+tags:
+- concurrency
+- parallelism
+
+url: http://hackage.haskell.org/package/hoopl
+title: ! 'hackage: hoopl'
+type: documentation
+tags:
+- compilers
+- hoopl
+- optimization
+
+url: http://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
+title: Tools for analyzing performance of a Haskell program
+type: Q&A website
+tags:
+- profiling
+
+url: http://book.realworldhaskell.org/read/profiling-and-optimization.html
+authors:
+- Bryan O'Sullivan
+title: ! 'Real World Haskell: Profiling and optimization'
+type: textbook
+tags:
+- optimization
+- profiling
+
+url: http://functionaljobs.com/
+title: functionaljobs.com
+type: community site
+tags:
+- job search
+
+published: 2009
+url: http://www.cs.ox.ac.uk/ralf.hinze/publications/CEFP09.pdf
+authors:
+- Ralf Hinze
+title: Reasoning about Codata
+type: lecture notes
+tags:
+- codata
+
+url: http://hackage.haskell.org/package/acid-state
+title: ! 'hackage: acid-state'
+type: documentation
+tags:
+- databases
+
+url: http://www.gekkou.co.uk/software/hsqml/
+authors:
+- Robin KAY
+title: HsQML - Qt Quick for Haskell
+type: community site
+tags:
+- GUIs
+- QML
+- Qt
+
+url: https://github.com/feuerbach/monad-classes
+authors:
+- Roman Cheplyaka
+title: feuerbach/monad-classes
+type: source code
+tags:
+- monad transformers
+- type families
+
+url: http://hackage.haskell.org/package/psqueues
+authors:
+- better.com
+title: ! 'hackage: psqueues'
+type: documentation
+tags:
+- caching
+- data structures
+
+published: 2013
+url: http://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf
+authors:
+- The Univalent Foundations Program Institute for Advanced Study
+title: ! 'Homotopy Type Theory: Univalent Foundations of Mathematics'
+type: textbook
+tags:
+- homotopy type theory
+- type theory
+
+published: 2007
+url: http://www.cs.ox.ac.uk/jeremy.gibbons/publications/dgp.pdf
+authors:
+- Jeremy Gibbons
+title: Datatype-Generic Programming
+type: lecture notes
+tags:
+- generic programming
+
+url: https://nixos.org/nix/manual/
+authors:
+- Eelco Dolstra
+title: Nix User's Guide
+type: documentation
+tags:
+- nix
+
+url: http://www.haskell.org/ghc/docs/latest/html/users_guide/template-haskell.html
+authors:
+- The GHC Team
+title: Template Haskell
+type: documentation
+tags:
+- template haskell
+
+url: http://hackage.haskell.org/package/template-haskell
+title: ! 'hackage: template-haskell'
+type: documentation
+tags:
+- template haskell
+
+url: http://www.haskell.org/cabal/users-guide/
+title: Cabal User's Guide
+type: documentation
+tags:
+- cabal
+
+url: http://projects.haskell.org/diagrams/doc/manual.html
+title: Diagrams Manual
+type: documentation
+tags:
+- diagrams
+
+url: https://github.com/begriffs/haskell-vim-now
+authors:
+- Joe Nelson
+title: begriffs/haskell-vim-now
+type: source code
+tags:
+- vim
+
+published: 2014
+url: http://www.cs.cmu.edu/~rwh/plbook/book.pdf
+authors:
+- Robert Harper
+title: Practical Foundations for Programming Languages
+type: textbook
+tags:
+- category theory
+
+published: 2013
+url: http://www.quora.com/Category-Theory/What-is-the-best-textbook-for-Category-theory?share=1
+authors:
+- Edward Kmett
+title: ! 'Category Theory: What is the best textbook for Category theory?'
+type: Q&A website
+tags:
+- category theory
+
+published: 1991
+url: http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/
+authors:
+- Simon Thompson
+title: Type Theory and Functional Programming
+type: textbook
+tags:
+- category theory
+
+url: http://stackoverflow.com/questions/16551734/can-a-monad-be-a-comonad
+title: Can a monad be a comonad?
+type: Q&A website
+tags:
+- comonads
+
+url: http://stackoverflow.com/questions/24000465/step-by-step-deep-explain-the-power-of-coyoneda-preferably-in-scala-throu
+title: ! 'Step by Step / Deep explain: The Power of (Co)Yoneda (preferably in scala)
+  through Coroutines'
+type: Q&A website
+tags:
+- category theory
+- Yoneda lemma
+
+url: http://okmij.org/ftp/Computation/lightweight-dependent-typing.html
+title: Lightweight Dependent-type Programming
+type: lecture notes
+tags:
+- dependent types
+
+published: 2006
+url: http://www.cas.mcmaster.ca/~forressa/academic/cas743-presentation.pdf
+authors:
+- Stephen Forrest
+title: Arbitrary-rank polymorphism in (GHC) Haskell
+type: lecture notes
+tags:
+- higher-rank types
+
+url: https://www.haskell.org/ghc/docs/latest/html/users_guide/other-type-extensions.html#universal-quantification
+authors:
+- The GHC Team
+title: Arbitrary-rank polymorphism
+type: documentation
+tags:
+- higher-rank types
+
+url: http://en.wikibooks.org/wiki/Haskell/Polymorphism
+authors:
+- Haskell Wikibook
+title: Polymorphism
+type: textbook
+tags:
+- higher-rank types
+
+published: 2014
+url: http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html
+authors:
+- Rein Henrichs
+title: Recommended Reading Material
+type: meta resource
+tags:
+- miscellaneous
+
+url: http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#recursive-do-notation
+authors:
+- The GHC Team
+title: The recursive do-notation
+type: documentation
+tags:
+- fixpoints
+- MonadFix
+
+url: http://en.wikibooks.org/wiki/Haskell/Category_theory
+authors:
+- Haskell Wikibook
+title: Category theory
+type: lecture notes
+tags:
+- category theory
+
+url: http://types2004.lri.fr/SLIDES/altenkirch.pdf
+authors:
+- Thorsten Altenkirch
+title: Codata
+type: lecture notes
+tags:
+- codata
+
+url: http://www.haskell.org/haskellwiki/Monads_as_Containers
+authors:
+- Haskell Wiki
+title: Monads as containers
+type: lecture notes
+tags:
+- monads
+
+url: http://www.haskell.org/haskellwiki/Monads_as_computation
+authors:
+- Haskell Wiki
+title: Monads as computation
+type: lecture notes
+tags:
+- monads
+
+url: http://www.haskell.org/haskellwiki/All_About_Monads
+authors:
+- Haskell Wiki
+title: All About Monads
+type: lecture notes
+tags:
+- monads
+
+published: 2014
+url: http://stackoverflow.com/questions/25428065/rechunk-a-conduit-into-larger-chunks-using-combinators
+title: Rechunk a conduit into larger chunks using combinators
+type: Q&A website
+tags:
+- conduit
+
+published: 1991
+url: http://www.di.ens.fr/users/longo/files/CategTypesStructures/book.pdf
+authors:
+- Andrea Asperti
+- Giuseppe Longo
+title: ! 'Categores, Types, and Structures: An Introduction to Category Theory for
+  the Working Computer Scientist'
+type: textbook
+tags:
+- category theory
+
+published: 2000
+url: http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf
+authors:
+- Henk Barendregt
+- Erik Barendsen
+title: Introduction to Lambda Calculus
+type: textbook
+tags:
+- lambda calculus
+
+published: 2009
+url: http://fsl.cs.illinois.edu/images/1/1d/CS522-Fall-2009-04-Lambda-Calculus-and-CL.pdf
+authors:
+- Grigore Roşu
+title: ! 'CS522 - Programming Language Semantics: Lambda Calculus and Combinatory
+  Logic'
+type: lecture notes
+tags:
+- lambda calculus
+
+published: 1984
+url: http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf
+authors:
+- Michael Barr
+- Charles Wells
+title: Toposes, Triples, and Theories
+type: textbook
+tags:
+- category theory
+
+published: 1990
+url: http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf
+authors:
+- Michael Barr
+- Charles Wells
+title: Category Theory for Computing Science
+type: textbook
+tags:
+- category theory
+
+published: 1981
+url: http://www.cs.elte.hu/~ewkiss/univ-algebra.pdf
+authors:
+- Stanley Burris
+- H. P. Sankappanavar
+title: A Course in Universal Algebra
+type: textbook
+tags:
+- category theory
+
+published: 2002
+url: http://www.staff.science.uu.nl/~ooste110/syllabi/catsmoeder.pdf
+authors:
+- Jaap van Oosten
+title: Basic Category Theory
+type: textbook
+tags:
+- category theory
+
+published: 1991
+url: http://www.maths.ed.ac.uk/~aar/papers/cohnalg3.pdf
+authors:
+- Paul M. Cohn
+title: Algebra
+type: textbook
+tags:
+- category theory
+
+published: 2008
+url: http://fsl.cs.illinois.edu/images/1/1e/CS522-Fall-2009-05-Simply-Typed-Lambda-Calculus.pdf
+authors:
+- Grigore Roşu
+title: ! 'CS522 - Programming Language Semantics: Simply Typed Lambda Calculus'
+type: lecture notes
+tags:
+- lambda calculus
+
+published: 2013
+url: http://fsl.cs.illinois.edu/images/1/10/CS522-Spring-2013-PL-CCC.pdf
+authors:
+- Grigore Roşu
+title: ! 'CS522 - Programming Language Semantics: Cartesian Closed Categories as Models
+  for Simply-Typed λ-Calculus'
+type: lecture notes
+tags:
+- category theory
+- lambda calculus
+
+published: 2010
+url: http://fsl.cs.illinois.edu/images/1/14/CS422-Spring-2010-type-inference.pdf
+authors:
+- Grigore Roşu
+title: ! 'CS422 - Programming Language Design: Type Inference'
+type: lecture notes
+tags:
+- type inference
+
+published: 1989
+url: https://www.cs.ox.ac.uk/files/3395/PRG72.pdf
+authors:
+- Joseph A. Goguen
+title: A Categorical Manifesto
+type: textbook
+tags:
+- category theory
+
+published: 2012
+url: http://stackoverflow.com/questions/13034229/concrete-example-showing-that-monads-are-not-closed-under-composition-with-proo?lq=1
+authors:
+- Andreas Hammar
+title: Concrete example showing that monads are not closed under composition (with
+  proof)?
+type: Q&A website
+tags:
+- monads
+
+published: 2004
+url: http://homepages.inf.ed.ac.uk/jcheney/presentations/ct4d1.pdf
+authors:
+- James Cheney
+title: Category Theory for Dummies
+type: lecture notes
+tags:
+- category theory
+
+published: 2014
+url: http://www.cs.nott.ac.uk/~gmh/sudoku.lhs
+authors:
+- Graham Hutton
+title: Sudoku in Haskell
+type: source code
+tags:
+- algorithms
+
+published: 2007
+url: http://bin-login.name/ftp/pub/docs/programming-in-haskell.9780521692694.33359.pdf
+authors:
+- Graham Hutton
+title: Programming in Haskell
+type: textbook
+tags:
+- introduction
+
+published: 2014
+url: http://ncatlab.org/nlab/show/representable+functor
+authors:
+- nLab
+title: representable functor
+type: lecture notes
+tags:
+- category theory
+- representable functors
+
+published: 2014
+url: http://ncatlab.org/nlab/show/Yoneda+lemma
+authors:
+- nLab
+title: Yoneda lemma
+type: lecture notes
+tags:
+- category theory
+- Yoneda lemma
+
+published: 2013
+url: http://www.aosabook.org/en/ghc.html
+authors:
+- Simon Marlow
+- Simon Peyton Jones
+title: The Glasgow Haskell Compiler
+type: documentation
+tags:
+- GHC
+
+url: https://github.com/NICTA/cplusplus-th
+authors:
+- NICTA
+title: NICTA / cplusplus-th
+type: source code
+tags:
+- FFI
+
+url: http://hackage.haskell.org/package/hasql
+authors:
+- Nikita Volkov
+title: ! 'hasql: A minimalistic general high level API for relational databases'
+type: documentation
+tags:
+- databases
+
+published: 2014
+url: http://learnyouanagda.liamoc.net/
+authors:
+- Liam O'Connor
+title: Learn You an Agda and Achieve Enlightenment
+type: textbook
+tags:
+- Agda
+
+published: 2014
+url: http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf
+authors:
+- Takenobu Tani
+title: GHC illustrated for hardware persons
+type: lecture notes
+tags:
+- GHC
+
+published: 2010
+url: https://www.haskell.org/pipermail/glasgow-haskell-users/2010-November/019431.html
+authors:
+- Simon Peyton Jones
+title: Type error in GHC-7 but not in GHC-6.12.3
+type: forum post
+tags:
+- impredictive polymorphism
+
+published: 2003
+url: http://www.cs.ox.ac.uk/ralf.hinze/publications/With.pdf
+authors:
+- Ralf Hinze
+title: Fun with phantom types
+type: textbook
+tags:
+- phantom types
+
+published: 2013
+url: http://stackoverflow.com/questions/14299638/existential-vs-universally-quantified-types-in-haskell
+authors:
+- C. A. McCann
+title: Existential vs. Universally quantified types in Haskell
+type: Q&A website
+tags:
+- existential quantification
+- universal quantification
+
+url: http://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism
+authors:
+- Haskell Wikibook
+title: The Curry–Howard isomorphism
+type: textbook
+tags:
+- Curry-Howard correspondence
+
+published: 2008
+url: http://okmij.org/ftp/Computation/Existentials.html
+authors:
+- Oleg Kiselyov
+title: Representing existential data types with isomorphic simple types
+type: lecture notes
+tags:
+- existential quantification
+
+published: 2015
+url: http://www.cis.upenn.edu/~bcpierce/sf/current/index.html
+authors:
+- Benjamin C. Pierce
+- Chris Casinghino
+- Marco Gaboardi
+- Michael Greenberg
+- Cătălin Hriţcu
+- Vilhelm Sjöberg
+- Brent Yorgey
+title: Software Foundations
+type: textbook
+tags:
+- dependent types
+- type theory
+
+published: 2014
+url: http://stackoverflow.com/q/25554062/2751851
+authors:
+- Conor McBride
+title: Zipper Comonads, Generically
+type: Q&A website
+tags:
+- zippers
+
+published: 2010
+url: http://stackoverflow.com/q/3322540/2751851
+authors:
+- C. A. McCann
+title: How and why does the Haskell Cont monad work?
+type: Q&A website
+tags:
+- Cont monad
+- CPS
+
+url: https://en.wikibooks.org/wiki/Haskell/Understanding_arrows
+authors:
+- Haskell Wikibook
+title: Understanding arrows
+type: textbook
+tags:
+- arrows
+
+url: https://en.wikibooks.org/wiki/Haskell/Foldable
+authors:
+- Haskell Wikibook
+title: Foldable
+type: textbook
+tags:
+- Foldable
+
+url: https://en.wikibooks.org/wiki/Haskell/Traversable
+authors:
+- Haskell Wikibook
+title: Traversable
+type: textbook
+tags:
+- Traversable
+
+published: 2015
+url: http://refinement-types.org/
+authors:
+- Ranjit Jhala
+- Eric Seidel
+- Niki Vazou
+title: ! 'Programming with Refinement Types:  An Introduction to LiquidHaskell'
+type: textbook
+tags:
+- liquidhaskell
+- refinement types
+
+published: 2015
+url: https://github.com/bitemyapp/bloodhound
+authors:
+- Chris Allen
+- Michael Xavier
+title: Bloodhound
+type: source code
+tags:
+- DSLs
+- Elasticsearch
+- search
+
